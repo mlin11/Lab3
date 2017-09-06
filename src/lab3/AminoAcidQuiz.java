@@ -19,6 +19,7 @@ public class AminoAcidQuiz
 		"serine","threonine","tryptophan", 
 		"tyrosine", "valine"};
 
+	
 	public static void main(String[] args)
 	{
 		int remainingTime = 30;
